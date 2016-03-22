@@ -1,0 +1,23 @@
+{
+  "name": "shareddebtkeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiu-paraschiv/shareddebtkeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiu-paraschiv/shareddebtkeeper/issues"
+  },
+  "homepage": "https://github.com/sergiu-paraschiv/shareddebtkeeper#readme",
+  "dependencies": {
+    "firebase": "^2.4.1",
+    "lodash": "^4.6.1"
+  }
+}
